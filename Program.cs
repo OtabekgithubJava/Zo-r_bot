@@ -4,7 +4,7 @@
     {
         static async Task Main(string[] args)
         {
-            const string token = "7205228534:AAHILQ3v5UzohSksX2mX9Xou909u3ScxV5Y";
+            const string token = "Token shu yerga";
 
             BotHandler handler = new BotHandler(token);
 
